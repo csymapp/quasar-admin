@@ -1,2 +1,0 @@
-# quasar-admin
-Quasar Admin
